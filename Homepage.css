@@ -371,6 +371,13 @@ section h7 {
 	padding-top: 4vw
 }
 
+#disclaimer{
+	align: justify
+	padding-top: 2vw;
+	padding-bottom: 2vw;
+	font-size: 1.06vw;
+}
+
 .carousel-caption {
    position: absolute;
    
